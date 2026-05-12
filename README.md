@@ -1,7 +1,5 @@
 # 📦 Linux File Permissions, Ownership & Users Management Cheat Sheet
 
-Professional Linux Training Notes for GitHub README and Linux Administration Practice.
-
 ---
 
 # 📖 Introduction to Linux Permission Model
